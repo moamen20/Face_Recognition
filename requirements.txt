@@ -1,4 +1,4 @@
-mtcnn ==0.1.0
+mtcnn 
 keras ==2.11.0
 tensorflow ==2.11.0
 flask ==2.2.2
