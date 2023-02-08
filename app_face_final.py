@@ -19,10 +19,10 @@ from keras import models
 # In[2]:
 
 from numpy import load
-from numpy import expand_dims
-from sklearn.preprocessing import LabelEncoder
-from sklearn.preprocessing import Normalizer
-from matplotlib import pyplot
+#from numpy import expand_dims
+#from sklearn.preprocessing import LabelEncoder
+#from sklearn.preprocessing import Normalizer
+#from matplotlib import pyplot
 # load the model from disk
 #filename = 'D:\GPs/finalized_model.sav'
 #SVM_model= joblib.load(filename)
